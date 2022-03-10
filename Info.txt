@@ -1,0 +1,2 @@
+1. success in loading model
+2. failed in predicting  : Reasons 1.may be variabel image size leads to failed conversion of tensors

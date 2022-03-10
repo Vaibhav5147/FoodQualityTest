@@ -1,0 +1,7 @@
+{
+     "name":"tensorflowjs",
+     "version": "3.13.0",
+     "dependencies": {
+          "express":"latest" 
+     }
+}     
